@@ -7,7 +7,7 @@ const express = require('express'),
 db = mysql.createConnection({
   host: 'localhost',
   user: 'jarvis',
-  password: '********',
+  password: '******',
   database: 'jarvis'
 })
 
